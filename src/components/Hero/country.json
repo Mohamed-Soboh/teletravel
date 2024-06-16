@@ -1,0 +1,317 @@
+[
+        {
+            "code": "HER",
+            "name": {
+                "en": "Crete-Heraklion",
+                "he": "כרתים-הרקליון",
+                "ru": "Крит-Ираклион",
+                "ar": "كريت هيراكليون"
+            },
+            "countryName": {
+                "en": "GREECE",
+                "he": "יוון",
+                "ru": "GREECE",
+                "ar": "GREECE"
+            }
+        },
+        {
+            "code": "PRT",
+            "name": {
+                "en": "Protaras",
+                "he": "פרוטארס",
+                "ru": "Протарас",
+                "ar": "بروتاراس"
+            },
+            "countryName": {
+                "en": "CYPRUS",
+                "he": "קפריסין",
+                "ru": "CYPRUS",
+                "ar": "CYPRUS"
+            }
+        },
+        {
+            "code": "GRR",
+            "name": {
+                "en": "Lake Garda",
+                "he": "אגם גרדה",
+                "ru": "Озеро Гарда",
+                "ar": "بحيرة غاردا"
+            },
+            "countryName": {
+                "en": "ITALY",
+                "he": "איטליה",
+                "ru": "ITALY",
+                "ar": "ITALY"
+            }
+        },
+        {
+            "code": "RHO",
+            "name": {
+                "en": "Rhodes",
+                "he": "רודוס",
+                "ru": "Родос",
+                "ar": "رودس"
+            },
+            "countryName": {
+                "en": "GREECE",
+                "he": "יוון",
+                "ru": "GREECE",
+                "ar": "GREECE"
+            }
+        },
+        {
+            "code": "BAK",
+            "name": {
+                "en": "Baku",
+                "he": "באקו",
+                "ru": "Баку",
+                "ar": "باكو"
+            },
+            "countryName": {
+                "en": "AZERBAIJAN",
+                "he": "אזרבייגן",
+                "ru": "AZERBAIJAN",
+                "ar": "AZERBAIJAN"
+            }
+        },
+        {
+            "code": "BOJ",
+            "name": {
+                "en": "Burgas",
+                "he": "בורגס",
+                "ru": "Бургас",
+                "ar": "بورغاس"
+            },
+            "countryName": {
+                "en": "BULGARIA",
+                "he": "בולגריה",
+                "ru": "BULGARIA",
+                "ar": "BULGARIA"
+            }
+        },
+        {
+            "code": "VRN",
+            "name": {
+                "en": "Verona",
+                "he": "ורונה",
+                "ru": "Верона",
+                "ar": "ف يرونا"
+            },
+            "countryName": {
+                "en": "ITALY",
+                "he": "איטליה",
+                "ru": "ITALY",
+                "ar": "ITALY"
+            }
+        },
+        {
+            "code": "DXB",
+            "name": {
+                "en": "Dubai",
+                "he": "דובאי",
+                "ru": "Дубай",
+                "ar": "دبي"
+            },
+            "countryName": {
+                "en": "UNITED ARAB EMIRATES",
+                "he": "איחוד האמירויות",
+                "ru": "UNITED ARAB EMIRATES",
+                "ar": "UNITED ARAB EMIRATES"
+            }
+        },
+        {
+            "code": "AYA",
+            "name": {
+                "en": "Ayia Napa",
+                "he": "איה נאפה",
+                "ru": "Айя-Напа",
+                "ar": "أيا نابا"
+            },
+            "countryName": {
+                "en": "CYPRUS",
+                "he": "קפריסין",
+                "ru": "CYPRUS",
+                "ar": "CYPRUS"
+            }
+        },
+        {
+            "code": "KYR",
+            "name": {
+                "en": "Kyrenia (Northern Cyprus)",
+                "he": "קיריניה (צפון קפריסין)",
+                "ru": "Кирения (Северный Кипр)",
+                "ar": "كيرينيا (قبرص الشمالية)"
+            },
+            "countryName": {
+                "en": "CYPRUS",
+                "he": "קפריסין",
+                "ru": "CYPRUS",
+                "ar": "CYPRUS"
+            }
+        },
+        {
+            "code": "FMG",
+            "name": {
+                "en": "Famagusta (Northern Cyprus)",
+                "he": "פמגוסטה (צפון קפריסין)",
+                "ru": "Фамагуста (Северный Кипр)",
+                "ar": "فاماغوستا (قبرص الشمالية)"
+            },
+            "countryName": {
+                "en": "CYPRUS",
+                "he": "קפריסין",
+                "ru": "CYPRUS",
+                "ar": "CYPRUS"
+            }
+        },
+        {
+            "code": "TBS",
+            "name": {
+                "en": "Tbilisi",
+                "he": "טבליסי",
+                "ru": "Тбилиси",
+                "ar": "تبيليسي"
+            },
+            "countryName": {
+                "en": "GEORGIA",
+                "he": "גיאורגיה",
+                "ru": "GEORGIA",
+                "ar": "GEORGIA"
+            }
+        },
+        {
+            "code": "BUS",
+            "name": {
+                "en": "Batumi",
+                "he": "בטומי",
+                "ru": "Батуми",
+                "ar": "باتومي"
+            },
+            "countryName": {
+                "en": "GEORGIA",
+                "he": "גיאורגיה",
+                "ru": "GEORGIA",
+                "ar": "GEORGIA"
+            }
+        },
+        {
+            "code": "QLI",
+            "name": {
+                "en": "Limassol",
+                "he": "לימסול",
+                "ru": "Лимасол",
+                "ar": "ليماسول"
+            },
+            "countryName": {
+                "en": "CYPRUS",
+                "he": "קפריסין",
+                "ru": "CYPRUS",
+                "ar": "CYPRUS"
+            }
+        },
+        {
+            "code": "ATH",
+            "name": {
+                "en": "Athens",
+                "he": "אתונה",
+                "ru": "Афины",
+                "ar": "أثينا"
+            },
+            "countryName": {
+                "en": "GREECE",
+                "he": "יוון",
+                "ru": "GREECE",
+                "ar": "GREECE"
+            }
+        },
+        {
+            "code": "LCA",
+            "name": {
+                "en": "Larnaca",
+                "he": "לרנקה",
+                "ru": "Ларнака",
+                "ar": "لارنكا"
+            },
+            "countryName": {
+                "en": "CYPRUS",
+                "he": "קפריסין",
+                "ru": "CYPRUS",
+                "ar": "CYPRUS"
+            }
+        },
+        {
+            "code": "JMK",
+            "name": {
+                "en": "Mykonos",
+                "he": "מיקונוס",
+                "ru": "Миконос",
+                "ar": "ميكونوس"
+            },
+            "countryName": {
+                "en": "GREECE",
+                "he": "יוון",
+                "ru": "GREECE",
+                "ar": "GREECE"
+            }
+        },
+        {
+            "code": "PFO",
+            "name": {
+                "en": "Paphos",
+                "he": "פאפוס",
+                "ru": "Paphos",
+                "ar": "أيا نابا"
+            },
+            "countryName": {
+                "en": "CYPRUS",
+                "he": "קפריסין",
+                "ru": "CYPRUS",
+                "ar": "CYPRUS"
+            }
+        },
+        {
+            "code": "AUH",
+            "name": {
+                "en": "Abu Dhabi",
+                "he": "אבו דאבי",
+                "ru": "Абу-Даби",
+                "ar": "أبو ظبي"
+            },
+            "countryName": {
+                "en": "UNITED ARAB EMIRATES",
+                "he": "איחוד האמירויות",
+                "ru": "UNITED ARAB EMIRATES",
+                "ar": "UNITED ARAB EMIRATES"
+            }
+        },
+        {
+            "code": "TIV",
+            "name": {
+                "en": "Tivat",
+                "he": "טיווט",
+                "ru": "Черногория",
+                "ar": "الجبل الأسود"
+            },
+            "countryName": {
+                "en": "MONTENEGRO",
+                "he": "מונטנגרו",
+                "ru": "MONTENEGRO",
+                "ar": "MONTENEGRO"
+            }
+        },
+        {
+            "code": "BDV",
+            "name": {
+                "en": "Budva",
+                "he": "בודווה",
+                "ru": "Борох",
+                "ar": "بوروه"
+            },
+            "countryName": {
+                "en": "MONTENEGRO",
+                "he": "מונטנגרו",
+                "ru": "MONTENEGRO",
+                "ar": "MONTENEGRO"
+            }
+        }
+  ]

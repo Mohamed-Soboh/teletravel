@@ -1,0 +1,17 @@
+#match-list {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    max-height: 200px;
+    overflow-y: auto;
+    padding: 5px;
+}
+
+#match-list div {
+    padding: 5px;
+    cursor: pointer;
+}
+
+#match-list div:hover {
+    background-color: #f0f0f0;
+}
+ 

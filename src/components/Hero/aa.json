@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Tropical Paradise",
+        "description": "Experience the beauty of the tropics with our all-inclusive package.",
+        "price": 1999.99,
+        "duration": 7
+    },
+    {
+        "name": "Mountain Adventure",
+        "description": "Get ready for an adventure in the mountains.",
+        "price": 1499.99,
+        "duration": 5
+    }
+]
